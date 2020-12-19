@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantanukawale/puppeteer-scraper.git"
+  },
+  "author": "Shantanu Kawale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shantanukawale/puppeteer-scraper/issues"
+  },
+  "homepage": "https://github.com/shantanukawale/puppeteer-scraper#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "puppeteer": "^5.5.0"
+  }
+}
